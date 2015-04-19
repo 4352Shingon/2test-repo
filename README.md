@@ -7,3 +7,7 @@ This is really a test-repo
 * first item in list
 * second item in list
 * third item in list
+
+- [ ] Write the code
+- [ ] Write all the tests
+- [Document the code
